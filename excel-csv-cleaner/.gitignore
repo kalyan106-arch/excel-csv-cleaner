@@ -1,0 +1,14 @@
+
+# Virtual env
+.venv/
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+# OS files
+.DS_Store
+Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
+# Output data
+data/output/*
+!data/output/.gitkeep
