@@ -110,9 +110,9 @@ python -m src.cleaner.cli --in data/input/messy_sales.xlsx --out data/output/cle
 * **Title:** I will clean and automate your Excel/CSV data using Python
 * **Packages:**
 
-  * \$5: Basic cleaning + dedupe
-  * \$15: Clean + dedupe + date/numeric formatting
-  * \$30: Custom rules + Excel support + short demo video
+  * \$15: Basic cleaning + dedupe
+  * \$25: Clean + dedupe + date/numeric formatting
+  * \$35: Custom rules + Excel support + short demo video
 
 ---
 
